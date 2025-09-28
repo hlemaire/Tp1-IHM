@@ -9,7 +9,7 @@
     ensuite, on va trouver des idées et suggestions et tout noter, ensuite on va utiliser Figma ou autre pour faire <br>
     Des visuels et mettre une image à nos idées. Pour finir, on attend les retours utilisateurs pour voir les update à effectuer
     Personnellement, je suis à la troisième étape, je désigne une interface d'application pour mon entreprise de detailing automobile Lumyx.<br>
-    Voici le lien pour visualisé l'avancé du projet : <a href="https://www.figma.com/design/gcEzktrFTV2bK6mTVJ3yNN/Lumyx-%7Bv1%7D?node-id=0-1&t=Sz4MVYZjEECfwnfl-1">Lien Figma</a>
+    Voici le lien pour visualisé l'avancé du projet : <a href="https://www.figma.com/design/gP4bWZye2NqakJlv9OoWaB/Untitled?t=DZ9qKQpQjb0bciug-1">Lien Figma</a>
 
 3. Pour les observateurs on peut visionner par le lien ci-dessus, pour ce qui en est du DCU celui-ci utilise la dernière étape,<br>
     On va récupérer tous les retours utilisateur pour update le projet pour le rendre parfait.

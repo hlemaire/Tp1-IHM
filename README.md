@@ -7,7 +7,7 @@
 
 2. Le processus du Design Centré Utilisateur est que l'on va d'abord chercher les besoins de la personne,<br>
     ensuite, on va trouver des idées et suggestions et tout noter, ensuite on va utiliser Figma ou autre pour faire <br>
-    Des visuels et mettre une image à nos idées. Pour finir, on attend les retours utilisateurs pour voir les update à jour à effectuer
+    Des visuels et mettre une image à nos idées. Pour finir, on attend les retours utilisateurs pour voir les update à effectuer
     Personnellement, je suis à la troisième étape, je désigne une interface d'application pour mon entreprise de detailing automobile Lumyx.<br>
     Voici le lien pour visualisé l'avancé du projet : <a href="https://www.figma.com/design/gcEzktrFTV2bK6mTVJ3yNN/Lumyx-%7Bv1%7D?node-id=0-1&t=Sz4MVYZjEECfwnfl-1">Lien Figma</a>
 

@@ -2,8 +2,8 @@
 
 1. Un besoin utilisateur, c'est ce que l'utilisateur attend d'une application, site web, etc.
     Afin de répondre à différents besoins comme : faciliter la lisibilité, bouton cliquable mis en avant.
-    Personnellement j'ai mis des ombres aux boutons cliquables afin de les mettres en avant, de plus j'ai essayé<br> 
-    De ne pas trop bourré d'informations et de rester dans les couleurs classiques.
+    Personnellement j'ai mis des ombres aux boutons cliquables afin de les mettres en avant, de plus j'ai essayé 
+    De ne pas trop bourrer d'informations<br>et de rester dans les couleurs classiques.
 
 2. Le processus du Design Centré Utilisateur est que l'on va d'abord chercher les besoins de la personne,<br>
     ensuite, on va trouver des idées et suggestions et tout noter, ensuite on va utiliser Figma ou autre pour faire <br>

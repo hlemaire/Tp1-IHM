@@ -8,7 +8,7 @@ Personnellement, j’ai ajouté des ombres à mes boutons pour qu’ils ressorte
 Ensuite, on note les idées et suggestions, puis on réalise des visuels avec Figma (ou un autre outil).<br>
 Enfin, on attend les retours pour savoir quoi modifier.<br>
 Personnellement, j’en suis à la troisième étape : je travaille actuellement sur l’interface web du site <a href="https://www.roblox.com/">roblox</a>.<br>
-Voici le lien pour suivre l’avancée du projet : <a href="https://www.figma.com/design/gP4bWZye2NqakJlv9OoWaB/Tp1-Roblox?node-id=0-1&t=99qGAxzjJepd9y7X-1">Lien Figma</a>.<br><br>
+Voici le lien pour suivre l’avancée du projet : <a href="https://www.figma.com/design/gP4bWZye2NqakJlv9OoWaB/Tp1-Roblox?node-id=0-1&t=99qGAxzjJepd9y7X-1">Lien Figma</a>.<br>
 
 3- Pour les observateurs, vous pouvez consulter le lien ci-dessus.<br>
 Concernant le DCU, je suis à la dernière étape : recueillir les retours des utilisateurs pour améliorer le projet et obtenir un rendu optimal.<br>

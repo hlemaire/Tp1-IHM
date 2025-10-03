@@ -7,9 +7,9 @@
    Dans le cadre de mon projet, j'ai ajouté des ombres aux boutons. J'ai également veillé à ce que l'interface ne soit pas surchargée de détails, en maintenant une palette de couleurs classique et sobre pour assurer une lecture idéale.<br><br>
 
 2. Le processus du Design Centré Utilisateur (DCU) est une démarche structurée qui met la personne au cœur de la conception.<br>
-   La première étape consiste à identifier les attentes, les contraintes et les restrictions des futurs utilisateurs. On peut atteindre cet objectif en effectuant des observations.<br>
-   La deuxième étape sert de brainstorming on note les idées et explore différentes alternatives.<br>
-   Ensuite, on passe à la conception de maquettes et prototypes, à l’aide d’outils comme Figma, ce qui permet de donner une représentation concrète et testable de nos idées.<br>
+   La première étape consiste à identifier les attentes, les contraintes et les restrictions des futurs utilisateurs. On peut atteindre cet objectif en effectuant des observations.<br><br>
+   La deuxième étape sert de brainstorming on note les idées et explore différentes alternatives.<br><br>
+   Ensuite, on passe à la conception de maquettes et prototypes, à l’aide d’outils comme Figma, ce qui permet de donner une représentation concrète et testable de nos idées.<br><br>
    Les feedbacks des utilisateurs sont essentiels : ils permettent de vérifier si la solution répond réellement aux besoins initiaux et d'identifier ce qui nécessite une rectification ou une amélioration.<br>
    Je suis actuellement en train de travailler sur la troisième étape de mon projet : je créée une interface d'une application de jeux. Je trouve avoir réaliser une belle ergonomie générale.<br>
    Voici le lien pour visualiser l’avancement de mon projet : <a href="https://www.figma.com/design/gP4bWZye2NqakJlv9OoWaB/Tp1-Roblox?node-id=0-1&t=zmxjPAv0Mg2FmIHw-1">Lien Figma</a><br><br>

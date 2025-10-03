@@ -13,7 +13,7 @@
    Voici le lien pour visualiser l’avancement du projet : 
    <a href="https://www.figma.com/design/gP4bWZye2NqakJlv9OoWaB/Tp1-Roblox?node-id=0-1&t=zmxjPAv0Mg2FmIHw-1">Lien Figma</a><br><br>
 
-3. Pour les observateurs, j'ai partageais mon projet à Antony et pour le consulter utiliser le lien ci-dessus.<br>
+3. Pour les observateurs, j'ai partageais mon projet à Anthony et pour le consulter utiliser le lien ci-dessus.<br>
    En ce qui concerne le DCU, personnellement j'utilise des interactions sur les boutons cliquables ainsi que des ombres en fond pour différencier<br>
    les zones utilisables.<br><br>
 
